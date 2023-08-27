@@ -34,5 +34,4 @@ Os dataframes resultantes após a etapa de transformação são salvos em arquiv
 - Vendas Tesouro Direto: [Link para o CSV](https://www.tesourotransparente.gov.br/ckan/dataset/f0468ecc-ae97-4287-89c2-6d8139fb4343/resource/e5f90e3a-8f8d-4895-9c56-4bb2f7877920/download/VendasTesouroDireto.csv)
 - Preço/Taxa Tesouro Direto: [Link para o CSV](https://www.tesourotransparente.gov.br/ckan/dataset/df56aa42-484a-4a59-8184-7676580c81e3/resource/796d2059-14e9-44e3-80c9-2d9e30b405c1/download/PrecoTaxaTesouroDireto.csv)
 
-
-
+Obs: Uma cópia dos dados em bruto, extraídos em 26/08/2023 foi salva, para o caso da página ficar indisponível.
